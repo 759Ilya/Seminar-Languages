@@ -1,0 +1,15 @@
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\bin\Debug\net6.0\zadacha_0.exe
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\bin\Debug\net6.0\zadacha_0.deps.json
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\bin\Debug\net6.0\zadacha_0.runtimeconfig.json
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\bin\Debug\net6.0\zadacha_0.dll
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\bin\Debug\net6.0\zadacha_0.pdb
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\zadacha_0.csproj.AssemblyReference.cache
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\zadacha_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\zadacha_0.AssemblyInfoInputs.cache
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\zadacha_0.AssemblyInfo.cs
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\zadacha_0.csproj.CoreCompileInputs.cache
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\zadacha_0.dll
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\refint\zadacha_0.dll
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\zadacha_0.pdb
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\zadacha_0.genruntimeconfig.cache
+C:\Users\doggi\OneDrive\Desktop\Seminar C#\Seminar-Languages\zadacha_0\obj\Debug\net6.0\ref\zadacha_0.dll
